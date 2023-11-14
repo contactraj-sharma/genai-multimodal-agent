@@ -2,7 +2,7 @@
 
 This is the code repo of the blog [Generative AI and Multi-Modal Agents in AWS: The Key to Unlocking New Value in Financial Markets](https://aws.amazon.com/blogs/machine-learning/generative-ai-and-multi-modal-agents-in-aws-the-key-to-unlocking-new-value-in-financial-markets/).
 
-This file walks you through how to set up the infrastructure and applications, and run the code to create a multi-modal agents. The blog post provides a detailed discussion of this solution. 
+This file walks you through how to set up the infrastructure and applications and run the code to create a multi-modal agent. The blog post provides a detailed discussion of this solution. 
 
 ## Architecture Diagram
 
@@ -38,7 +38,7 @@ Upload the five zip files in folder *lambda_zip_files* to the S3 bucket.
 
 ## Create infrastructure using CloudFormation
 
-[AWS CloudFormation](https://aws.amazon.com/cloudformation/) allows you to create infrasturecture as code. 
+[AWS CloudFormation](https://aws.amazon.com/cloudformation/) allows you to create infrastructure as code. 
 
 First, download the CloudFormation template *cloudformation.yaml*. 
 
